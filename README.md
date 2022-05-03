@@ -1,4 +1,4 @@
-# Data Science project to predict health outcomes of patients with Alcohol Use Disorder admitted in Intensive Care Unit
+# Task 1: Data Science project to predict health outcomes of patients with Alcohol Use Disorder admitted in Intensive Care Unit
 
 ## Introduction
 
